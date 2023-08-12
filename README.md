@@ -20,4 +20,4 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=shuvowizard&count_private=true&show_icons=true&theme=tokyonight)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsshuvo&&theme=tokyonight" alt="shuvowizard" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shuvowizard&&theme=tokyonight" alt="shuvowizard" /></p>
