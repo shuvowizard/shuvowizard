@@ -1,9 +1,8 @@
 <h1 align="center">Hi There I'm Shuvo</h1>
 <h3 align="center">A Passionate Software Developer</h3>
+<img align="right" alt="Coding" width="300" src="https://media2.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif?cid=790b7611d742bc7fb587cc0c21abb6e693cf3103ac929d03&rid=giphy.gif&ct=s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuvowizard&label=Profile%20views&color=0e75b6&style=flat" alt="shuvowizard" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shuvowizard" alt="shuvowizard" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/shuvo_wizard" target="blank"><img src="https://img.shields.io/twitter/follow/shuvo_wizard?logo=twitter&style=for-the-badge" alt="shuvo_wizard" /></a> </p>
 
