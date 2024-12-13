@@ -21,10 +21,10 @@
  </div>
  
 <div align="center"> 
-  <a href="https://linkedin.com/in/shuvowizard" target="_blank">
+  <a href="https://linkedin.com/in/msshuvo07" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
   </a>
-  <a href="https://twitter.com/shuvo_wizard" target="_blank">
+  <a href="https://twitter.com/msshuvo07" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" />
   </a>
   <a href="#" target="_blank">
